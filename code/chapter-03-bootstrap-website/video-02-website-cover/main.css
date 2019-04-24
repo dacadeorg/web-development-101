@@ -1,0 +1,20 @@
+.nav-link{
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.img-thumbnail{
+  width:100px;
+  margin:0.5em;
+}
+
+.jumbotron{
+  text-align: center;
+  margin: 0 1em;
+  height: 88%;
+  height: 88vh;
+  display: flex;
+  align-items: center;
+  background-image: radial-gradient( circle farthest-corner at 10% 20%,
+    #03A9F4 0%, #2196F3 47.7%, #3F51B5 92.3% );
+  color: white;
+}
